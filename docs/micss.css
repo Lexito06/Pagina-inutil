@@ -1,0 +1,193 @@
+body{
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20%;
+}
+
+h2{
+    color: white;
+    padding: 20px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+
+p{
+    position: absolute;
+    padding: 5px;
+    border-radius: 40px;
+}
+
+main{
+    display: flex;
+    width: 100%;
+    position: relative;
+}
+
+.azul{
+    background-color: rgb(25, 255, 255);
+}
+
+.rosa{
+    background-color: rgb(255, 108, 243);
+}
+
+.verde{
+    background-color: rgb(89, 255, 47);
+}
+
+.rojo{
+    background-color: rgb(247, 42, 42);
+}
+
+.amarillo{
+    background-color: rgb(253, 224, 61);
+}
+
+.naranja{
+    background-color: rgb(255, 145, 20);
+}
+
+.morado{
+    background-color: rgb(118, 60, 252);
+}
+
+.turquesa{
+    background-color: rgb(0, 255, 179);
+}
+
+.blanco{
+    background-color: white;
+}
+
+a:hover{
+    background-color:transparent;
+}
+
+/* Textos */
+
+.b1{
+    position: absolute;
+    top: 30%;
+    left: 0.6%;
+    z-index: -1;
+}
+
+.b2{
+    position: absolute;
+    top: 30%;
+    left: 11.5%;
+    z-index: -1;
+}
+
+.b3{
+    position: absolute;
+    top: 30%;
+    left: 23%;
+    z-index: -1;
+}
+
+.b4{
+    position: absolute;
+    top: 30%;
+    left: 34.2%;
+    z-index: -1;
+}
+
+.b5{
+    position: absolute;
+    top: 30%;
+    left: 45.4%;
+    z-index: -1;
+}
+
+.b6{
+    position: absolute;
+    top: 30%;
+    left: 55.5%;
+    z-index: -1;
+}
+
+.b7{
+    position: absolute;
+    top: 30%;
+    left: 67.5%;
+    z-index: -1;
+}
+
+.b8{
+    position: absolute;
+    top: 30%;
+    left: 77.5%;
+    z-index: -1;
+}
+
+.b9{
+    position: absolute;
+    top: 30%;
+    left: 88.5%;
+    z-index: -1;
+}
+
+/* Botones */
+
+.a1{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+.a2{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+    
+}
+
+.a3{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+
+.a4{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+
+.a5{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+
+.a6{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+
+.a7{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+.a8{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+
+}
+.a9{
+    padding: 60px;
+    border-radius: 10px;
+    border: 3px solid black;
+    
+}
